@@ -1,4 +1,4 @@
-python
+Python
 ======
 
 My python repo
