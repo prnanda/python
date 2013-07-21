@@ -1,0 +1,4 @@
+list = raw_input("Enter list")
+
+
+#print list[2] % 2 
